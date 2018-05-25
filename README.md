@@ -2,6 +2,8 @@
 LADesk Export All Tickets and Conversations
 
 # export.php
+Open export.php and set your LADesk API key + LADesk URL before executing!
+
 To use, access the file in your browser with a GET variable defining the offset
 This script will export 1000 tickets at a time, so the "start" should be in multiples of 1000
 EG:
